@@ -101,3 +101,38 @@ All screenshots are located in the `/screenshots` folder:
 ## References
 Google. (2024). *Dialogflow CX documentation*. 
 https://cloud.google.com/dialogflow/cx/docs
+
+
+
+## NotebookLM Evaluation (Q4)
+
+### Academic Scenario
+
+Comparison of GRI 305 emissions disclosures and BHP greenhouse gas reporting and climate governance.
+
+### Features Evaluated
+
+- Chat with sources
+- Notes and summaries
+- Mind map
+- Audio overview
+- Study guide
+
+### Repository Contents
+
+#### screenshots
+Contains screenshots of NotebookLM outputs and generated materials.
+
+#### experiment_logs
+Contains the experiment log and observations from the NotebookLM evaluation.
+
+#### documents
+Contains report drafts and supporting files.
+
+### Key Findings
+
+NotebookLM provided accurate and useful source-grounded answers and study aids. The generated summaries and audio overview were valuable for revision and understanding complex ESG concepts. However, all AI-generated outputs should be verified against original sources because important details may be omitted or simplified.
+
+### Conclusion
+
+NotebookLM is suitable for limited academic use and supports research, revision and ESG policy analysis, but users should validate outputs against the original documents.
